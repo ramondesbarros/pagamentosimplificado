@@ -61,6 +61,7 @@ cleancode,codesize,controversial,design,naming,unusedcode
 O que NÃO será avaliado :warning:
 Fluxo de cadastro de usuários e lojistas
 Frontend (só avaliaremos a (API Restful)[https://www.devmedia.com.br/rest-tutorial/28912])
+
 Autenticação
 O que será um Diferencial
 Uso de Docker
